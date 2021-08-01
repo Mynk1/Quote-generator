@@ -21,7 +21,7 @@ function complete() {
 }
 
 
-// Secondly we do - show new quote
+// Secondly we do -- show new quote
 
 function newQuote() {
     loading();
